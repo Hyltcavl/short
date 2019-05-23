@@ -1,4 +1,5 @@
 roses are red
 violets are blue
 ponies are red
+cars are whatever
 draculas are black
